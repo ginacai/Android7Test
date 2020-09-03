@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android7Test</string>
+    <string-array name="Monkey_package">
+        <item>com.meizu.media.camera</item>
+        <item>com.android.dialer</item>
+        <item>com.meizu.media.gallery</item>
+        <item>com.android.mms</item>
+        <item>com.meizu.datamigration</item>
+        <item>com.meizu.net.pedometer</item>
+        <item>com.meizu.voiceassistant</item>
+        <item>com.meizu.assistant</item>
+        <item>com.meizu.filemanager</item>
+        <item>com.android.email</item>
+        <item>com.meizu.sceneinfo</item>
+        <item>com.meizu.feedback</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.meizu.measure</item>
+        <item>com.meizu.flyme.toolbox</item>
+        <item>com.meizu.safe</item>
+        <item>com.meizu.media.music</item>
+    </string-array>
+</resources>
